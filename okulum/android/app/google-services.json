@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336436096165",
+    "firebase_url": "https://school-ced38-default-rtdb.firebaseio.com",
+    "project_id": "school-ced38",
+    "storage_bucket": "school-ced38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336436096165:android:f6ee4c92fb96b658f7714c",
+        "android_client_info": {
+          "package_name": "com.example.okulum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336436096165-ldkhe4j1rpfsnhf8milroio73b30bf7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nL1QqZzJd4KsmAi-HA1HDH0T2EyzfFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336436096165-ldkhe4j1rpfsnhf8milroio73b30bf7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
